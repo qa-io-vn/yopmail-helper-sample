@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jan 25 14:20:21 GMT 2024","Thu Jan 25 14:20:26 GMT 2024","4721","yopmail helper","","","","","get inbox of a mail address",""
+"passed","Thu Jan 25 14:20:21 GMT 2024","Thu Jan 25 14:20:38 GMT 2024","17357","yopmail helper","","","","","Read link of an email",""
+"passed","Thu Jan 25 14:20:21 GMT 2024","Thu Jan 25 14:20:30 GMT 2024","8942","yopmail helper","","","","","Read details of an email in text type",""
+"passed","Thu Jan 25 14:20:21 GMT 2024","Thu Jan 25 14:20:34 GMT 2024","13150","yopmail helper","","","","","Read details of an email in html type",""
