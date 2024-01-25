@@ -4,11 +4,13 @@
   },
   "devDependencies": {
     "@types/jest": "^29.5.11",
+    "allure-jest": "^2.11.1",
+    "allure-js-commons": "^2.11.1",
     "jest": "^29.7.0",
     "ts-jest": "^29.1.1",
     "typescript": "^5.3.3"
   },
   "scripts": {
-      "test": "npx jest test --runInBand"
+    "test": "npx jest test --runInBand"
   }
 }
