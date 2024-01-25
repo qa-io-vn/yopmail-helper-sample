@@ -3,7 +3,7 @@ import { inbox, linkOfFirstMail, mailDetails, mailDetailsHtml } from 'yopmail-he
 describe('yopmail helper', () => {
 
   beforeEach(async ()=>{
-    await delay(3000);
+    await delay(5000);
   })
   test('get inbox of a mail address', async () => {
     const mails = await inbox('admin01');
