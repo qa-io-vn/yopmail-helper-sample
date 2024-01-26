@@ -45,5 +45,6 @@ jobs:
           authToken: ${{secrets.GITHUB_TOKEN}}
           context: 'Test report'
           state: 'success'
+          owner: ${{github.repository_owner}}
           sha: ${{ github.event.pull_request.head.sha }}
           target_url: qa-io-vn.github.io/yopmail-helper-sample-history/${{ github.run_number }}
